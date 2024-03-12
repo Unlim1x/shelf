@@ -1,0 +1,14 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Shelf" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/Indigo</item>
+        <item name="colorSecondary">@color/SlateBlue</item>
+        <item name="colorOnPrimary">@color/White</item>
+        <item name="colorOnSecondary">@color/GreyBlack</item>
+        <item name="colorOnPrimarySurface">@color/WhiteSmoke</item>
+        <!-- Customize your dark theme here. -->
+        <item name="backgroundColor">@color/GreyBlack</item>
+        <item name="android:foregroundTint">@color/my_gray_tint</item>
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+    </style>
+</resources>

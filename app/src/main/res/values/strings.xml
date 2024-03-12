@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Shelf</string>
+    <string name="check_network_connection">Ошибка загрузки</string>
+    <string name="repeat_loading">Повторить попытку загрузки</string>
+    <string name="description_string">Description</string>
+    <string name="price_string">Цена</string>
+    <string name="discount_string">Скидка</string>
+    <string name="brand_string">Brand</string>
+    <string name="rating_string">rating</string>
+    <string name="title_string">Title</string>
+    <string name="Description_string">Описание</string>
+    <string name="loading_error_string">Ошибка загрузки</string>
+    <string name="repeat_string">Повторить</string>
+    <string name="product_image_string">Product image</string>
+    <string name="thumbnail_string">Thumbnail</string>
+    <string name="product_name_string">Товар</string>
+    <string name="some_field_string">Вспомогательное поле</string>
+    <string name="search">Search</string>
+    <string name="filter_categories">filter categories</string>
+    <string name="nothing_loaded">Ничего не нашлось</string>
+    <string name="category_str">Категория</string>
+</resources>
