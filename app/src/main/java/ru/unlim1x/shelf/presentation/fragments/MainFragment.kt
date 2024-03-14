@@ -84,11 +84,7 @@ class MainFragment : Fragment(), ProductRecyclerAdapterListener {
                 productRecyclerAdapter.notifyDataSetChanged()
             }
         }
-        //Старт загрузки
-        if (viewModel.productsList.value.isNullOrEmpty()) {
-            progressBar.visibility = View.VISIBLE
-            viewModel.loadMoreProducts()
-        }
+
         //Если ошибка, то показываем
         viewModel.errorWhileLoading.observe(viewLifecycleOwner) {
             if (it) {
