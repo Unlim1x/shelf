@@ -1,4 +1,4 @@
-# Shell
+# Shelf
 ## Приложение по стажировке
 
 Чистая архитектура, retrofit, немного rxjava (+rxadapter и rxbinding).
